@@ -9,9 +9,15 @@ namespace cse210_tc3
             Console.WriteLine("Hello from Ben!");
         }
 
+        static void DisplayGreetingMichael()
+        {
+            Console.WriteLine("Hello, I'm Michael!");
+        }
+
         static void Main(string[] args)
         {
             DisplayGreetingBen();
+            DisplayGreetingMichael();
         }
     }
 }
