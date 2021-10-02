@@ -1,5 +1,7 @@
 # cse210-tc3
-My name is Ben and I am a software engineering student.
+My name is Ben and I am a software engineering student. I like to read,
+write music, and play tennis. I'm currently a senior and hopefully should
+be graduating soon!
 
 My name is Mosiah Hazen. I am a software engineering student.
 I like to snowboard and longboard, pretty much anything with
