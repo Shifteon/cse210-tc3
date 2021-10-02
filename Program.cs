@@ -4,6 +4,11 @@ namespace cse210_tc3
 {
     class Program
     {
+        static void DisplayGreetingMosiah()
+        {
+            Console.WriteLine("Howdy, I'm Mosiah");
+        }
+        
         static void DisplayGreetingBen()
         {
             Console.WriteLine("Hello from Ben!");
@@ -21,6 +26,7 @@ namespace cse210_tc3
 
         static void Main(string[] args)
         {
+            DisplayGreetingMosiah();
             DisplayGreetingBen();
             DisplayGreetingMichael();
             DisplayGreetingSasha();
